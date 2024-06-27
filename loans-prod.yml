@@ -3,7 +3,7 @@ build:
 loans:
   message: "Welcome to TechnoBank loans related production APIs "
   contactDetails:
-    name: "kol - Developer"
+    name: "kol - Production Engineer"
     email: "kol@TechnoBank.com"
   onCallSupport:
     - (555) 777-1234
