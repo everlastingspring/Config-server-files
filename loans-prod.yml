@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 loans:
-  message: "Welcome to TechnoBank loans related production APIs "
+  message: "Welcome to TechnoBank loans related webhook production APIs "
   contactDetails:
     name: "kol - Production Engineer"
     email: "kol@TechnoBank.com"
