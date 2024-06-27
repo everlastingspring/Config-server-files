@@ -3,7 +3,7 @@ build:
 accounts:
   message: "Welcome to TechnoBank accounts related production APIs "
   contactDetails:
-    name: "kol daren - Developer"
+    name: "kol daren - Production Enginner"
     email: "{cipher}591851959e0b4ab01333696573394f9c87a3b209c4a522d040b1fac36928b248365e333104eaa28d36d0e7cd67bf3e4f"
   onCallSupport:
     - (555) 777-1234
